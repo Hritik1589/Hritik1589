@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hritik1589</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Hritik Negi</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/9708020/media/839ef4840886e3c7e9af9fa9b4801617.png?compress=1&resize=1000x750&vertical=top">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritik1589&label=Profile%20views&color=0e75b6&style=flat" alt="hritik1589" /> </p>
